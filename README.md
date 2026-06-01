@@ -11,3 +11,7 @@ Spring Boot based Job Portal project.
 - Java
 - Spring Boot
 - MySQL
+
+## Future Enhancements
+- Resume Upload
+- Email Notifications
