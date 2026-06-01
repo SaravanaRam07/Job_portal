@@ -6,3 +6,8 @@ Spring Boot based Job Portal project.
 - Authentication
 - Job Posting
 - Job Application
+
+## Technologies
+- Java
+- Spring Boot
+- MySQL
